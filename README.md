@@ -10,12 +10,10 @@ Un progetto di Marco Prunca basato su ESP32-P4.
 <img width="1365" height="768" alt="EPXX-Spinnerino3" src="https://github.com/user-attachments/assets/b70f26df-dcb5-43d5-aa05-b4c1ab0de17d" />
 
 <img width="3840" height="2160" alt="IMG_9652_(00-00-08-12)" src="https://github.com/user-attachments/assets/c1a3b713-ff37-46b9-b017-30f5a540b1e8" />
-<img width="3840" height="2160" alt="IMG_9650_(00-00-03-03)" src="https://github.com/user-attachments/assets/d3b824f6-8af3-44bd-a042-fffb83bed8f1" />
 <img width="3840" height="2160" alt="IMG_9646_(00-00-02-06)" src="https://github.com/user-attachments/assets/9b8e4b81-fbad-4911-bf16-bc04afeb70a8" />
 <img width="3840" height="2160" alt="IMG_9642_(00-00-02-23)" src="https://github.com/user-attachments/assets/322a2244-ee6e-4c6f-b591-427e38b8ce93" />
 <img width="3840" height="2160" alt="IMG_9642_(00-00-00-00)" src="https://github.com/user-attachments/assets/57e43023-a464-44e6-bbb7-ddca840d6f96" />
 <img width="3840" height="2160" alt="IMG_9641_(00-00-02-20)" src="https://github.com/user-attachments/assets/32f2aee2-9f78-437c-a5f8-d7a7a1a731ba" />
-<img width="3840" height="2160" alt="IMG_9641_(00-00-02-15)" src="https://github.com/user-attachments/assets/024744f2-f7e9-44a6-8999-6974f8a754a4" />
 
 ---
     COMANDI:
