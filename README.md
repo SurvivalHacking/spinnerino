@@ -59,6 +59,24 @@ Un progetto di Marco Prunca basato su ESP32-P4.
  - WINDOWS: Lanciare il file convert_all.bat nella cartella \ROM_CONVERTER (serve avere installato python)
  - MACOS: Lanciare il file .\convert.all.sh nella cartella \ROM_CONVERTER (nel caso rendere prima eseguibile con il comendo chmod +x conv_all.sh)
 
+
+<img width="250" height="293" alt="images" src="https://github.com/user-attachments/assets/50119fe7-5b06-4aa4-bc20-c36fcfd1012f" />
+<img width="250" height="322" alt="images" src="https://github.com/user-attachments/assets/5322f83c-e975-476e-be35-f38357eb2293" />
+<img width="224" height="272" alt="images-7" src="https://github.com/user-attachments/assets/352cf132-03ee-446a-862b-f83c4ab27d13" />
+<img width="447" height="447" alt="images-6" src="https://github.com/user-attachments/assets/34046bfd-0aac-4a10-a693-90e3c209a658" />
+<img width="447" height="447" alt="images-6" src="https://github.com/user-attachments/assets/07ec0124-ca63-4e87-b242-6f1056799329" />
+<img width="208" height="256" alt="images-5" src="https://github.com/user-attachments/assets/affd8436-e527-40c2-b17e-0b8493c5cc90" />
+<img width="571" height="536" alt="images-5" src="https://github.com/user-attachments/assets/efaea3ce-7b93-4263-9390-2b326ec8657d" />
+<img width="224" height="256" alt="images-4" src="https://github.com/user-attachments/assets/c6ca22c5-1494-466b-bc2a-09cf73d0e989" />
+<img width="224" height="256" alt="images-4" src="https://github.com/user-attachments/assets/3f2fca73-50ae-438b-87bd-8cf044ab9569" />
+<img width="224" height="256" alt="images-3" src="https://github.com/user-attachments/assets/ba310029-3995-484a-9289-f620e0c3f734" />
+<img width="515" height="388" alt="images-3" src="https://github.com/user-attachments/assets/57666d29-94f3-41b3-be1c-cf5abd96025e" />
+<img width="447" height="447" alt="images-2" src="https://github.com/user-attachments/assets/9b2214b2-ed61-42b7-90b3-3914171a2aa8" />
+<img width="464" height="660" alt="images-2" src="https://github.com/user-attachments/assets/f51e58e4-bb49-4507-9574-7a658f01b16a" />
+<img width="224" height="256" alt="images-1" src="https://github.com/user-attachments/assets/b9bf00ea-36a7-45e8-a65b-cf9502040406" />
+<img width="224" height="256" alt="images-1" src="https://github.com/user-attachments/assets/ba82dcff-b0e1-4dcf-8da1-3deca8e44f20" />
+
+
 ---
 ## 🎛️ Schema pratico di assemblaggio
 
