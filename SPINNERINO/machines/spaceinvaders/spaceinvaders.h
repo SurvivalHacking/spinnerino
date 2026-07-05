@@ -1,0 +1,54 @@
+#ifndef SPACEINVADERS_H
+#define SPACEINVADERS_H
+
+#include "../machineBase.h"
+
+#ifdef ENABLE_SPACE
+
+#include <pgmspace.h>
+#include "spaceinvaders_logo.h"
+#include "spaceinvaders_rom.h"
+#include "spaceinvaders_dipswitches.h"
+
+class SpaceInvaders : public machineBase
+{
+public:
+  SpaceInvaders() { }
+  ~SpaceInvaders() { }
+
+  signed char machineType()    override { return MCH_SPACE; }
+  signed char videoFlipY()     override { return 0; }
+  signed char videoFlipX()     override { return 0; }
+  signed char useVideoHalfRate() override { return 0; }
+  bool isLandscape()           override { return false; } // arcade portrait, render trasposto
+  bool hasOpaqueBG()           override { return false; } // bitmap su sfondo nero (memset richiesto)
+  bool freeRunEmulation()      override { return false; }
+  int  ec11PulseHoldMs()       override { return 100; }   // EC11 pulse hold per cannone
+
+  unsigned char rdZ80(unsigned short Addr) override;
+  void          wrZ80(unsigned short Addr, unsigned char Value) override;
+  void          outZ80(unsigned short Port, unsigned char Value) override;
+  unsigned char opZ80(unsigned short Addr) override;
+  unsigned char inZ80(unsigned short Port) override;
+
+  void run_frame(void) override;
+  void prepare_frame(void) override;
+  void render_row(short row) override;
+  const unsigned short *logo(void) override;
+  void reset() override;
+
+protected:
+  void blit_tile(short row, char col) override { }
+  void blit_sprite(short row, unsigned char s) override { }
+
+private:
+  // Hardware shift register (Midway 8080)
+  uint16_t shift_data;
+  uint8_t  shift_amount;
+  uint8_t  last_coin = 0;     // edge detection per coin sound
+
+  unsigned short get_pixel_color(int y);
+};
+
+#endif // ENABLE_SPACE
+#endif // SPACEINVADERS_H
