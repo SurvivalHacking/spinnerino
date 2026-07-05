@@ -1,0 +1,18 @@
+Inserire in questa cartella i file corretti con questo nome file.
+Non usare altre ROM con nomi differenti !
+
+arkangc.zip
+galaga.zip
+gigasb.zip
+invaders.zip
+phoenix.zip
+arknoid2.zip
+galaxian.zip
+gigasm2b.zip
+motorace.zip
+sbrkout.zip
+bombbee.zip
+roadf2.zip
+arknoid2.zip
+pang.zip
+goindol.zip
