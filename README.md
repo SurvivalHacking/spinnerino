@@ -6,6 +6,9 @@ Un giro nel passato
 Mini arcade dedicato ai titoli con controllo a manopola con grandi classici come Arkanoid. Un concentrato di retro-gaming e DIY in un formato unico.
 Un progetto di Marco Prunca basato su ESP32-P4. 
 
+🎥 Video tutorial: https://youtu.be/w0VBSTasEfM
+<img width="1365" height="768" alt="EPXX-Spinnerino3" src="https://github.com/user-attachments/assets/b70f26df-dcb5-43d5-aa05-b4c1ab0de17d" />
+
 <img width="3840" height="2160" alt="IMG_9652_(00-00-08-12)" src="https://github.com/user-attachments/assets/c1a3b713-ff37-46b9-b017-30f5a540b1e8" />
 <img width="3840" height="2160" alt="IMG_9650_(00-00-03-03)" src="https://github.com/user-attachments/assets/d3b824f6-8af3-44bd-a042-fffb83bed8f1" />
 <img width="3840" height="2160" alt="IMG_9646_(00-00-02-06)" src="https://github.com/user-attachments/assets/9b8e4b81-fbad-4911-bf16-bc04afeb70a8" />
